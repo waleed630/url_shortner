@@ -1,0 +1,25 @@
+{
+  "name": "url",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node --watch app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waleed630/url_shortner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/waleed630/url_shortner/issues"
+  },
+  "homepage": "https://github.com/waleed630/url_shortner#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
